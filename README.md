@@ -1,7 +1,7 @@
 # REACT CONTACT MANAGER
 
 ## Introduction
-This is a simple contact management crud react-redux application. As of right now, the server is mongodb, and the rest of the backend is served by featherjs.
+This is a simple contact management crud react-redux application. As of right now, the server is mongodb.
 ##  How to install
 
 
